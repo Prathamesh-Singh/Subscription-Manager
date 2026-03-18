@@ -347,7 +347,11 @@ Your Subscription Manager now has a **production-grade backend** with:
 | Detailed setup? | SETUP_GUIDE.md |
 
 Authors
+
 Prathamesh Kumar Singh
+
 Puneeth Yenneti
+
 Pruthviraj Ajay Patil
+
 
