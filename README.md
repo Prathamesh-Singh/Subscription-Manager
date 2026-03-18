@@ -346,6 +346,8 @@ Your Subscription Manager now has a **production-grade backend** with:
 | How do I test? | API_TESTING.md |
 | Detailed setup? | SETUP_GUIDE.md |
 
----
+Authors
+Prathamesh Kumar Singh
+Puneeth Yenneti
+Pruthviraj Ajay Patil
 
-**Happy coding! The foundation is solid, now build amazing features! 💪**
